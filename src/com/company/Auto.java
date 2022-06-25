@@ -7,8 +7,8 @@ public class Auto {
     int price;
     double consumption;
 
-    int minPrice = 520000;
-    int maxPrice = 37000000;
+    int minPrice = 600000;
+    int maxPrice = 45000000;
 
     double minConsumption = 2.5;
     double maxConsumption = 15.0;
