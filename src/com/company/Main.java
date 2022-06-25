@@ -17,7 +17,7 @@ public class Main {
             System.out.println(auto);
         }
 
-        print(randomAutoList, element -> element.compareTo(3) < 0);
+        print(randomAutoList, element -> element.compareTo(3.0) < 0);
     }
 
     public static void print(List<Auto> randomCarList, Condition condition) {
